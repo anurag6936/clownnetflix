@@ -1,0 +1,345 @@
+.container{
+    width: 1000px;
+    height: 500px;
+    
+    border:1px solid black ;
+    background-color: black;
+    background-image: url(background.jpg);
+    background-size: cover;
+    
+}
+.navbar{
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    
+    position:relative;
+    
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.488);
+   
+}
+.sano{
+    background-color:orangered;
+    height: 32px;
+    width: 75px;
+    font-weight: 20%;
+    color: white;
+    border-radius: 10px; 
+    
+    
+}
+
+img{
+    padding-left: 40px;
+}
+.sano{
+    margin-left: 600px;
+/* }next */
+
+}
+.center{
+    height:310px;
+    width:910px;
+    
+
+    padding-bottom: 40px;
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+    
+justify-content: center;
+align-items: center;
+    
+
+    
+}
+.movies{
+    height: 33px;
+    width: 910px;
+   
+    text-align: center;
+    font: italic small-caps bold 16px/2;
+    color: white;
+ 
+
+}
+
+.watch{
+    height: 3opx;
+    width: 910px;
+    
+    text-align: center;
+    color: white; 
+    align-self:center
+    
+ 
+}
+
+.ready{
+    height: 30px;
+    width: 910px;
+    
+    text-align: center;
+    color: white;
+    font-weight: 200px;
+ 
+
+}
+.signin{
+    Height: 58px;
+    width:910px; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    position: relative;
+    
+}
+input{
+    width:300px;
+    height:40px; 
+    margin-left: 200px;
+    height:40px;
+    border-radius: 0.25rem;
+    
+}
+.anurag{
+    width:203px;
+    height:40px;
+    border-radius: 0.25rem;
+    border-radius: 0.25rem;
+    color:white;
+    background-color: orangered;
+    
+    margin-top: 3px;
+    margin-right: 110px;
+
+    
+    
+    
+}
+.button{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+
+.sano:hover{
+    background-color: rgba(255, 0, 0, 0.622);
+    transition-timing-function: ease-in;
+    transition-delay: 0.5ms;
+}
+.anurag:hover{
+    background-color: rgba(255, 0, 0, 0.622);
+    transition-timing-function: ease-in;
+    transition-delay: 0.5ms;
+}
+/* second part */
+
+
+
+
+.main2{
+    height: 382px;
+    width: 1000px;
+    border: 8px solid rgba(12, 1, 1, 0.236);
+    display: flex;
+    background-color:#100E09  ;
+    border:8px solid rgba(128, 128, 128, 0.13)
+}
+.enjoybox{
+    width:450px;
+    height:200px;
+    
+    display: flex;
+    flex-direction: column;
+}
+.enjoytv{
+    height: 64px;
+    width: 444px;
+    
+    
+    color: white;
+    text-align: center;
+    font-family: bolder;
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    font-size: 900;
+    font-display: 100%;
+    font-weight: 900;
+    font-family:"font-a-bold";
+    
+    
+
+}
+.smart{
+    height: 96px;
+    width: 444px;
+    
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    overflow-wrap: break-word;
+}
+.tv{
+    height: 333px;
+    width: 444px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+video{
+    height:80%;
+    width:80%;
+} 
+
+/*  arko abbb */
+.stmain{
+    height: 400px;
+    width: 1000px;
+    border:8px solid rgba(128, 128, 128, 0.13);
+
+    display: flex; 
+    
+    position: relative;
+    background-color:#100E09  ;
+}
+.stmobile{
+    width: 444px;
+    height: 323px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download{
+    width: 444;
+    height: 100px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-size-adjust: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.save{
+    width: 444px;
+    height: 64px;
+    
+    justify-content: center;
+    position: relative;
+    margin-left: 80px;
+    color: white;
+    word-wrap: break-word;
+    
+}
+.thulost{
+    width: 450px;
+    height: 298px;
+    
+    
+
+    
+}
+.got{
+    height:300px;
+    width:444px;
+    
+    background-image: url(got.webp);
+    background-size: cover;
+}
+.few{
+    position: relative;
+   
+    text-align:right;
+    color: white;
+    position: relative;
+    margin-left: 20px;
+    
+}
+/*  next please */
+
+.kidsmain{
+    height: 282px;
+    width: 1000px;
+    border:8px solid rgba(128, 128, 128, 0.063);
+    display: flex;
+    flex-direction: row-reverse;
+    background-color:#100E09  ;
+    
+}
+.kids{
+    height: 233px;
+    width: 444px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainspend{
+    height: 265px;
+    width: 450px;
+    
+}
+.create{
+    height: 128px;
+    width: 444px;
+    display: contents;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.spend{
+    height: 96px;
+    width: 450px;
+   
+    color: white;
+    text-align: center;
+   text-size-adjust: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sanokids{
+    height: 200px;
+    width: 300px;
+    
+    background-image: url(kids.jpg);
+background-size: cover;
+    
+}
+/* footer part */
+.tala{
+    width: 1000px;
+    height: 180px;
+    border: 8px solid rgba(128, 128, 128, 0);
+    display: flex;
+    
+    align-items: center;
+    background-color:#100E09  ;
+    position: relative;
+
+}
+.nl{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    margin-right: 200px
+   
+   
+    
+
+}
+.love{
+    color: white;
+}
